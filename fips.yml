@@ -3,5 +3,4 @@
 #
 ---
 exports:
-    header-dirs: [ . ]
-
+    header-dirs: [ '.', 'curl' ]
